@@ -24,7 +24,7 @@ li {
 }
 
 .content {
-    margin-left: 200px;
+    margin: 0 auto;
     padding: 10px 20px;
     width:800px;
     height:600px;
